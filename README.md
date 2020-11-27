@@ -9,11 +9,11 @@ Components Used:
 
 Block Diagram:
 
-<img src="images/block_diagram.png" width='500'>
+<img src="img/block_diagram.png" width='500'>
 
 Schematic:
 
-<img src="images/sch.jpg">
+<img src="img/sch.jpg">
 
 Design Constraint:
   * Have to use single sided PCB.
@@ -21,6 +21,6 @@ Design Constraint:
 
 PCB Layout:
 
-<img src="images/pcblayout.png">
+<img src="img/pcblayout.png">
 
 The schematic and pcb layout is drawn using Altium Designer.
