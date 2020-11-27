@@ -9,11 +9,11 @@ Components Used:
 
 Block Diagram:
 
-<img src="https://user-images.githubusercontent.com/56364127/100448099-cb30b180-30d7-11eb-9fe0-fb28b00be19d.png" width='500'>
+<img src="images/block_diagram.png" width='500'>
 
 Schematic:
 
-<img src="https://user-images.githubusercontent.com/56364127/100448602-8d805880-30d8-11eb-9451-6e0d8a3db41a.jpg">
+<img src="images/sch.jpg">
 
 Design Constraint:
   * Have to use single sided PCB.
@@ -21,6 +21,6 @@ Design Constraint:
 
 PCB Layout:
 
-<img src="https://user-images.githubusercontent.com/56364127/100449351-c4a33980-30d9-11eb-81f8-3d42a7a2131d.png">
+<img src="images/pcblayout.png">
 
 The schematic and pcb layout is drawn using Altium Designer.
