@@ -13,7 +13,7 @@ Block Diagram:
 
 Schematic:
 
-<img src="img/sch.jpg">
+<img src="img/sch.png">
 
 Design Constraint:
   * Have to use single sided PCB.
