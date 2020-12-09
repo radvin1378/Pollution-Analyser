@@ -29,7 +29,7 @@ Schematic:
 
 Simulation:
 
-<img src="img/proteus_low.png" width='200'/>   <img src="img/proteus_medium.png" width='200'/>   <img src="img/proteus_high.png" width='200'/>
+<img src="img/proteus_low.png" width='250'/>   <img src="img/proteus_medium.png" width='250'/>   <img src="img/proteus_high.png" width='250'/>
 
 Design Constraint:
   * Have to use single sided PCB.
