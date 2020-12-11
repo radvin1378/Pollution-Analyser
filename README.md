@@ -35,5 +35,3 @@ The system continously monitors the dust level concenteration and updates it eve
 ### PCB Layout:
 
 <img src="img/pcblayout.png">
-
-The schematic and pcb layout is drawn using Altium Designer.
