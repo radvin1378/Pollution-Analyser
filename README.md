@@ -17,7 +17,7 @@ The system continously monitors the dust level concenteration and updates it eve
 
   - **Input Side:** PPD42NS Dust sensor provides a negative pulse corresponding to the level of concenteration.
   - **Output Side:** LCD (16x2) is used to display the output level, HIGH,MEDIUM and LOW.
-  - The timer0 is used to create a time delay for 10 seconds, and the timer1 is used to measure the low pulse occupancy time of the output signal of the PPD4NS sensor. Every 10 seconds, the LPO resets.
+  - The timer0 is used to create a time delay for 10 seconds, and the timer1 is used to measure the low pulse occupancy time (LPO) of the signal from the PPD4NS sensor. Every 10 seconds, LPO resets.
 
 ### Schematic:
 
