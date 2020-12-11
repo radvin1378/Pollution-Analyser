@@ -1,7 +1,7 @@
 # Pollution-Analyser
 
 This is a simple embedded system design for detecting dust level in the air using 8051.
-The system continously monitors the dust level concenteration and updates the level of dust concenteration every 10 seconds (i.e. sample time).
+The system continously monitors the dust level concenteration and updates it every 10 seconds (i.e. sample time).
 
 ### Components Used:
 
